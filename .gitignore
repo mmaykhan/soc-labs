@@ -1,0 +1,18 @@
+# secrets: never commit
+*.pem
+*.key
+*.crt
+*.p12
+*.env
+.env
+secrets/
+passwords*.txt
+**/wazuh_indexer_ssl_certs/
+
+# Wazuh deployment files that can contain passwords
+**/docker-compose.yml
+**/config/
+
+# OS junk
+Thumbs.db
+.DS_Store
