@@ -1,0 +1,6 @@
+.gitignore:2:*.pem	test.pem
+.gitignore
+README.md
+mini-soc-week1/README.md
+mini-soc-week1/architecture/addresses.md
+mini-soc-week1/journal.md

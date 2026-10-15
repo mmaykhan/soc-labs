@@ -1,0 +1,5 @@
+2026-10-15T14:19:06 | ubuntu-web | 3 | Wazuh agent started.
+2026-10-15T14:19:45 | ubuntu-web | 3 | PAM: Login session opened.
+2026-10-15T14:19:55 | win-client | 3 | Software protection service scheduled successfully.
+2026-10-15T14:20:51 | win-client | 9 | C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe created a new scripting file under Windows Temp or User data folder
+2026-10-15T14:21:50 | win-client | 3 | Service startup type was changed
